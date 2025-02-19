@@ -6,7 +6,7 @@ Hang the Wise Man is a clone of the classic Hangman game where the user must gue
 
 1. **Clone the repository**  
    Use the following command to clone the repository:  
-   git clone [\[repository-link\]](https://github.com/fkukovec/hang-the-wise-man.git)
+   git clone https://github.com/fkukovec/hang-the-wise-man.git
 
 2. **Install dependencies**  
    Navigate to the project directory and install the required packages:  
